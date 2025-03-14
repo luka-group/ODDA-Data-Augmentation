@@ -1,0 +1,9 @@
+wandb
+transformers
+nlpaug
+pywsd
+numexpr
+ujson
+truecase
+tqdm
+seqeval
